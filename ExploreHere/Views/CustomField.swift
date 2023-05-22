@@ -91,7 +91,7 @@ struct CustomEpicTopiaField: View {
         }
         .padding(.horizontal)
         .padding(.vertical,14)
-        .background(Color.white.opacity(0.8))
+        .background(Color.white)
         .cornerRadius(12)
         .padding(.horizontal,24)
     }
